@@ -44,7 +44,7 @@ Frame interpolation:
 ```console
 $ python train_fi.py --dataset {dataset name} --kps_root {path to motion representations} --vid_root {path to video datasets}--max_seq_len 16 --batch_size 600 --weight_lm 10. ---epoch_size 600 --nepochs 1000  --log_dir logs/fi
 ```
-### Checkpoint:
+### Checkpoints:
 
 [Google Drive](https://drive.google.com/drive/folders/1ozSXgwMhCMAOWCmvobLmGmAh9OotfzlN?usp=share_link)
 
